@@ -4,7 +4,7 @@ WORDCHARS -ʼ'‘’
 COMPOUNDMIN 2
 FLAG num
 
-REP 485
+REP 486
 REP й и
 REP иӕ йӕ
 REP п тт
@@ -51,6 +51,7 @@ REP ппп пп
 REP ййй йй
 REP йй й
 REP ийа иа
+REP а ӕ
 REP ае ӕ
 REP эе ӕ
 REP аэ ӕ
